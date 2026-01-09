@@ -26,7 +26,7 @@ Check out the live demo below!
 
 No servers, no headaches. Just code that runs when people show up.
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./architecture.jpg)
 
 ## 🧩 The Tech Behind It
 
