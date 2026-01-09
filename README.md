@@ -1,5 +1,7 @@
 # Live Visitor Counter 🌐👥
 
+**🌐 Languages:** [English](README.md) | [日本語 (Japanese)](README.jp.md)
+
 A real-time, serverless website visitor counter that shows how many people are currently browsing your site. Built entirely on AWS with zero servers to manage — it scales automatically and costs almost nothing to run.
 
 Check out the live demo below!
