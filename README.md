@@ -11,7 +11,7 @@ Check out the live demo below!
 ## 📸 What It Looks Like
 
 ### Main Dashboard
-![Website Screenshot 1](./images/website-screenshot-1.png)
+![Website Screenshot 1](./website-screenshot-1.png)
 
 ### Live Count in Action
 ![Website Screenshot 2](./images/website-screenshot-2.png)
