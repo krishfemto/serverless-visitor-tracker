@@ -55,4 +55,3 @@ Want to run your own?
 6. **Open your S3 website URL** and watch the counter go up!
 
 
-## 📁 What's in This Repo
