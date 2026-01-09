@@ -14,7 +14,7 @@ Check out the live demo below!
 ![Website Screenshot 1](./website-screenshot-1.png)
 
 ### Live Count in Action
-![Website Screenshot 2](./images/website-screenshot-2.png)
+![Website Screenshot 2](./website-screenshot-2.png)
 
 ## 🏗️ How It Works (The Simple Version)
 
@@ -26,16 +26,16 @@ Check out the live demo below!
 
 No servers, no headaches. Just code that runs when people show up.
 
-![Architecture Diagram](./images/architecture.png)
+![Architecture Diagram](./architecture.png)
 
 ## 🧩 The Tech Behind It
 
 | Part | What It Does | Picture |
 |------|--------------|---------|
-| **S3** | Holds the website files (HTML, CSS, JS). | ![S3](./images/s3.png) |
-| **API Gateway** | Front door for the visitor-count API. | ![API Gateway](./images/api.png) |
-| **Lambda** | Serverless function that updates the count. | ![Lambda](./images/lambda.png) |
-| **DynamoDB** | Database that stores the live visitor number. | ![DynamoDB](./images/dynamodb.png) |
+| **S3** | Holds the website files (HTML, CSS, JS). | ![S3](./s3.png) |
+| **API Gateway** | Front door for the visitor-count API. | ![API Gateway](./api.png) |
+| **Lambda** | Serverless function that updates the count. | ![Lambda](./lambda.png) |
+| **DynamoDB** | Database that stores the live visitor number. | ![DynamoDB](./dynamodb.png) |
 
 ## 🚀 Getting Started
 
